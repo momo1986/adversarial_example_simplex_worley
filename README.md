@@ -1,5 +1,5 @@
 # adversarial_example_simplex_worley
-This is the repo for the code of the paper "On the procedural adversarial noise attack and defense".
+This is the repo for the code of the paper "On Procedural Adversarial Noise Attack and Defense".
 
 Our work is inspired by the repos list in the acknowledgement and follow their licenses.
 
