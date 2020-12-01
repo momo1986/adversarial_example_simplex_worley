@@ -5,6 +5,8 @@ Our work is inspired by the repos list in the acknowledgement and follow their l
 
 Listed code files include: simplex noise attack demo on ImageNet and CIFAR-10, worley noise attack demo on ImageNet and CIFAR-10.
 
+Architecture is VGG-19
+
 Acknowledgement:
 
 https://github.com/kenny-co/procedural-advml
