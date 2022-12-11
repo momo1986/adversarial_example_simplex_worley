@@ -1,5 +1,5 @@
 # adversarial_example_simplex_worley
-This is the repo for the code of the paper "On Procedural Adversarial Noise Attack and Defense".
+This is the repo for the code of the paper "Exploring Aesthetic Procedural Noise for Crafting Model-Agnostic Universal Adversarial Perturbations".
 
 Our work is inspired by the repos list in the acknowledgement and follow their licenses.
 
